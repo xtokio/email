@@ -1,7 +1,5 @@
 # EMail for Crystal
 
-[![Build Status](https://travis-ci.org/arcage/crystal-email.svg?branch=master)](https://travis-ci.org/arcage/crystal-email)
-
 Simple email sending library for the [Crystal programming language](https://crystal-lang.org).
 
 You can:
@@ -26,7 +24,7 @@ First, add the dependency to your `shard.yml`:
 ```yaml
 dependencies:
   email:
-    github: arcage/crystal-email
+    github: xtokio/email
 ```
 
 Then, run `shards install`
